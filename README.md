@@ -2,8 +2,6 @@
 
 I am Ramli abdul Rahim and currently part time student for UTMSPACE KL.
 
-<details>
-
 <p align="left">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ramli05&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
     <br>
@@ -13,7 +11,7 @@ I am Ramli abdul Rahim and currently part time student for UTMSPACE KL.
   ![Follower Badge](https://img.shields.io/github/followers/ramli05)
   ![](https://visitor-badge.glitch.me/badge?page_id=ramli05)
 
-</details>
+
 
 # Ramli Abdul Rahim
 ## Ramli Abdul Rahim
@@ -34,7 +32,9 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 <!--
 **ramli05/ramli05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<summary>Click for GitHub Stats</summary>
+<details>
+<summary>Click for GitHub Stats</summary
+</details>
 
 Here are some ideas to get you started:
 
