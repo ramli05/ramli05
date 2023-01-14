@@ -3,7 +3,7 @@
 I am Ramli abdul Rahim and currently part time student for UTMSPACE KL.
 
 <details>
-<summary>Click for GitHub Stats</summary>
+
 <p align="left">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ramli05&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
     <br>
@@ -33,6 +33,8 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 
 <!--
 **ramli05/ramli05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<summary>Click for GitHub Stats</summary>
 
 Here are some ideas to get you started:
 
