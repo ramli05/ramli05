@@ -2,28 +2,6 @@
 
 I am Ramli abdul Rahim and currently part time student for UTMSPACE KL.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-# Ramli Abdul Rahim
-## Ramli Abdul Rahim
-### Ramli Abdul Rahim
-#### Ramli Abdul Rahim
-
-# Welcome to StackEdit!
-
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Ramli05&theme=jolly" width="500">
-
 <details>
 <summary>Click for GitHub Stats</summary>
 <p align="left">
@@ -36,6 +14,19 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
   ![](https://visitor-badge.glitch.me/badge?page_id=ramli05)
 
 </details>
+
+# Ramli Abdul Rahim
+## Ramli Abdul Rahim
+### Ramli Abdul Rahim
+#### Ramli Abdul Rahim
+
+# Welcome to StackEdit!
+
+Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ramli05&theme=jolly" width="500">
+
+
 
 
 
