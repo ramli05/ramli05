@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am Ramli and part time student for UTM SPACE
+I am Ramli abdul Rahim and currently part time student for UTMSPACE KL.
+I’m currently learning Web Programming ASP.Net
+
 <!--
 **ramli05/ramli05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
